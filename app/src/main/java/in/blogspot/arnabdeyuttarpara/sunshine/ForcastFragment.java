@@ -244,7 +244,7 @@ public  class ForcastFragment extends Fragment {
             String format="json";
             String units="metric";
             int numDays=7;
-            String APPID="ea033797607397300643be0bee78c199";
+            String APPID="xx your app id xx";
 
             try {
                 // Construct the URL for the OpenWeatherMap query
